@@ -9,8 +9,7 @@ html,body{
 	padding: 0;
 }
 body{
-	/*background: url(../images/normal.jpg) #000 no-repeat;*/
-	background: #111;
+	background: url(../images/normal.jpg) #000 no-repeat;
     background-size: contain;
     background-position: right;
     font-family: 'Quicksand', sans-serif;
